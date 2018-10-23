@@ -3,9 +3,6 @@
 @section('content')
     <div class="row">
         <div class="col-md-8 col-md-offset-2">
-            <h1 class="text-center" style="color: white">LaraQuiz</h1>
-            <h3 class="text-center" style="color: white">How well do you know Laravel?</h3>
-            <br />
             <div class="panel panel-default">
                 <div class="panel-heading">Login</div>
                 <div class="panel-body">
@@ -92,8 +89,7 @@
                     </form>
                 </div>
             </div>
-            <div class="text-center" style="color: white">Created by <a href="http://laraveldaily.com">Laravel Daily Team</a></div>
-            <div class="text-center" style="color: white">Powered by <a href="https://quickadminpanel.com">QuickAdminPanel.com</a></div>
+           
         </div>
     </div>
 @endsection
