@@ -1,6 +1,6 @@
 <meta charset="utf-8">
 <title>
-    LaraQuiz - powered by QuickAdminPanel.com
+    Quiz LMS
 </title>
 
 <meta http-equiv="X-UA-Compatible"
@@ -33,7 +33,3 @@
       href="https://cdnjs.cloudflare.com/ajax/libs/jquery-ui-timepicker-addon/1.4.5/jquery-ui-timepicker-addon.min.css"/>
 <link rel="stylesheet"
       href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.5.0/css/bootstrap-datepicker.standalone.min.css"/>
-
-<meta property="og:title" content="LaraQuiz - how well do you know Laravel?" />
-<meta property="og:image" content="{{ asset('laraquiz.png') }}" />
-<meta property="og:description" content="Mini-project with Laravel Quiz. Powered by QuickAdminPanel.com code generator." />
